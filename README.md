@@ -2,7 +2,7 @@
 
 This repository contains an unofficial setup guide for connecting a **Square Golf launch monitor** to **GSPro on macOS** using **CrossOver** and GSPro's **OpenAPI/Open Connect** interface.
 
-Read the hosted guide here:
+[Read the hosted guide here](https://aaroncoyner.github.io/square-golf-gspro-mac/):
 
 ```text
 https://aaroncoyner.github.io/square-golf-gspro-mac/
