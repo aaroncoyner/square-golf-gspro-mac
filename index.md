@@ -45,7 +45,7 @@ The recommended Mac setup is:
 
 1. Download and install CrossOver for Mac from CodeWeavers.
 2. Open CrossOver.
-3. Create a new bottle.
+3. Open the Bottle dropdown menu and select a New Bottle or ⌘N.
 4. Choose **Windows 10** as the bottle type.
 5. Name the bottle something clear, such as:
 
@@ -61,15 +61,16 @@ Keeping GSPro in its own bottle makes troubleshooting easier.
 1. Download the GSPro installer from your GSPro account.
 2. Open CrossOver.
 3. Select the **GSPro** Windows 10 bottle.
-4. Choose **Install**.
-5. If GSPro is not listed, choose **Install an Unlisted Application**.
-6. Select the GSPro installer file.
+4. Choose **Install Application into Bottle**.
+5. Choose **Install an Unlisted Application**.
+6. Select the GSPro installer file (currenlty GSPro.msi).
 7. Install GSPro into the **GSPro** bottle.
 8. Launch GSPro from CrossOver.
+9. Select **OpenAPI** when GSPconnect opens.
 
 When GSPro asks which launch monitor or interface you are using, choose the **OpenAPI**, **Open Connect**, or equivalent open connector option.
 
-If you already installed GSPro and selected the wrong launch monitor, you can easily submit a change request when launching GSPro.
+If you already installed GSPro and selected the wrong launch monitor, you can easily submit a change request by click "Convert License Type" in the GSPconnect window.
 
 
 ## 3. Install SquareGolf Connector
@@ -112,7 +113,7 @@ For a clean startup:
 5. Open `SquareGolf Connector.app` on macOS.
 6. In the connector, scan for your Square Golf device.
 7. Select the launch monitor and connect.
-8. Connect the connector to GSPro.
+8. Select GSPro from the sidebar and connect the connector to GSPro.
 9. If manual OpenAPI/Open Connect settings are needed, use:
 
 ```text
@@ -120,7 +121,7 @@ Host: 127.0.0.1
 Port: 0921
 ```
 
-10. Return to GSPro and confirm that it shows as connected.
+10. Return to GSPconnect and confirm that it shows as connected (turns from red to green).
 11. Hit a test shot.
 
 Once GSPro and the connector are both connected, you should be ready to play!
