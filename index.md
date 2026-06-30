@@ -29,7 +29,7 @@ Backup files may be provided in this repo's Releases page only in case the origi
 - CrossOver for Mac
 - A GSPro license
 - GSPro set up with **OpenAPI/Open Connect**
-- SquareGolf Connector from Brent Yates' GitHub repository
+- SquareGolf Connector from [Brent Yates' GitHub repository](https://github.com/brentyates/squaregolf-connector)
 
 
 ## Recommended setup
